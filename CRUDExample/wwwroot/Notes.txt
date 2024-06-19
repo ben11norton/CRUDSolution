@@ -1,0 +1,47 @@
+﻿Project Structure
+CRUDExample
+Connected Services
+Dependencies
+Properties
+wwwroot
+aspLogo.png
+jQuery and validation scripts
+logo2.png
+Notes.txt
+StyleSheet.css
+Controllers
+PersonsController.cs
+Views
+Persons
+Create.cshtml
+Delete.cshtml
+Edit.cshtml
+Index.cshtml
+Shared
+_GridHeader.cshtml
+_Layout.cshtml
+_ViewImports.cshtml
+_ViewStart.cshtml
+appsettings.json
+Program.cs
+CRUDTests
+Entities
+Country.cs
+Person.cs
+ServiceContracts
+DTO
+CountryAddRequest.cs
+CountryResponse.cs
+PersonAddRequest.cs
+PersonResponse.cs
+PersonUpdateRequest.cs
+Enums
+GenderOptions.cs
+SortOrderOptions.cs
+ICountriesService.cs
+IPersonsService.cs
+Services
+Helpers
+ValidationHelper.cs
+CountriesService.cs
+PersonsService.cs
